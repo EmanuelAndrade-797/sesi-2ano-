@@ -1,8 +1,8 @@
 <?php
 
 $dev = "ola mundo ";
-
-echo $dev;
+$nome = "Eu sou o Emanuel ";
+echo $dev. "". $nome;
 
 
 ?>
